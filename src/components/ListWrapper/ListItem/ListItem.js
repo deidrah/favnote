@@ -21,7 +21,7 @@ const ListItem = ({
   </li>
 );
 
-ListItem.PropTypes = {
+ListItem.propTypes = {
   name: PropTypes.string.isRequired,
   description: PropTypes.string ,
   image: PropTypes.string.isRequired,
