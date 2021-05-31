@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ArticlesView = () => (
+const ArticlesView = () => ( 
   <p>This is an Articles View</p>
 );
 
